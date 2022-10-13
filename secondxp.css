@@ -1,0 +1,22 @@
+.function-name {
+    text-align: center;
+    font-size: xx-large;
+}
+.submenu-1 {
+    
+    transform: translatex(150px) translatey(0px);
+    background-color: white;
+    position: absolute;
+} 
+.submenu-1 a {
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+.submenu-1 a:hover {
+    background-color: rgb(233, 233, 233);
+    color: black;
+}
+.dropdowm-item:hover .submenu-1 {
+    display: block;
+}

@@ -1,0 +1,21 @@
+.mdapps{
+    background:url(index.png);
+    background-size: cover;
+}
+.img{
+    text-align: center
+}
+.text{
+    text-align: center;
+   
+}
+.main{
+    text-align: center;
+}
+.end{
+    text-align: center;
+    padding: 15px;
+}
+
+
+
